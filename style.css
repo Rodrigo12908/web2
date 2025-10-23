@@ -6,11 +6,7 @@ nav {
     padding: 10px;
 }
 
-nav a {
-    color: white;
-    text-decoration: none; /* Removes the underline */
-    padding: 10px 20px; /* Adds space around the links */
-}
+
 body {
     font-family: sans-serif;
     margin: 0;
@@ -18,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #FF6D1F;
     color: white;
     padding: 10px;
     text-align: center;
@@ -30,7 +26,11 @@ main {
 }
 
 section {
-    background-color: white;
+    background-color: #A7C9C7
+
+;
+    color: #452720
+;
     margin-bottom: 20px; /* Adds space between sections */
     padding: 20px;
 }
